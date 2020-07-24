@@ -3,6 +3,10 @@ var container = $("div.container");
 var timeblock = $($("#timeblock").html());
 var currentHour = moment().hour();
 
+// create current date
+var currentDay = moment().format("dddd, MMMM Do");
+$("#currentDay").append(currentDay);
+
 // create time blocks
 for (var i = 0; i < 9; i++) {
 
