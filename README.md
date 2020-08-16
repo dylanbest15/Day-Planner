@@ -3,4 +3,4 @@ This website is a daily planner for work hours 9am - 5pm. The user can input any
 
 ![Day-Planner](screenshot-hw5.png)
 
-https://dylanbest15.github.io/Homework-5-Day-Planner/
+https://dylanbest15.github.io/Day-Planner/
